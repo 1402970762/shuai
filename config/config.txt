@@ -1,0 +1,2 @@
+{'name': '服务器 01', 'pwd': 'priv123', 'host': '192.168.88.91', 'user': 'user', 'time': 1800}
+{'user': 'user', 'pwd': 'priv123', 'name': '服务器 109', 'time': 1800, 'host': '192.168.88.109'}
